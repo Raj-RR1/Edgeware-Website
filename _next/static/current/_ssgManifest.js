@@ -1,1 +1,1 @@
-self.__SSG_MANIFEST=new Set(["\u002F404","\u002Fbinance","\u002Fbuild","\u002Fcontribute","\u002Fecosystem","\u002Fget-started","\u002F","\u002Fkeygen","\u002Fpress","\u002Fprivacy","\u002Fsociety"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
+self.__SSG_MANIFEST=new Set(["\u002F404","\u002Fbinance","\u002Fbuild","\u002Fcontribute","\u002Fecosystem","\u002Fget-started","\u002F","\u002Fpress","\u002Fprivacy","\u002Fsociety","\u002Ftools"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
